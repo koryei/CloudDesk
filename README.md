@@ -1,13 +1,12 @@
 # CloudDesk
 
-> **CloudDesk** — One-command browser-based Linux desktop — TigerVNC + XFCE4 + noVNC + nginx + SSL + Fail2Ban, fully automated.
+> **CloudDesk** — One-command browser-based Linux desktop with TigerVNC + XFCE4 + noVNC + nginx + SSL + Fail2Ban, fully automated.
 
 ![Platform](https://img.shields.io/badge/platform-Ubuntu%20x86__64-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Shell](https://img.shields.io/badge/shell-bash-lightgrey)
 
-https://github.com/Koryei/CloudDesk/demo.mp4
-
+[![Watch the demo video](https://img.youtube.com/vi/da82ZglaZ1U/maxresdefault.jpg)](https://www.youtube.com/watch?v=da82ZglaZ1U)
 ---
 
 ## One-Line Install
