@@ -11,7 +11,7 @@
 ## One-Line Install
 
 ```bash
-sudo bash <(curl -fsSL https://raw.githubusercontent.com/Koryei/CloudDesk/main/clouddesk.sh)
+curl -fsSL https://raw.githubusercontent.com/Koryei/CloudDesk/main/clouddesk.sh | sudo bash
 ```
 
 ---
