@@ -6,6 +6,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Shell](https://img.shields.io/badge/shell-bash-lightgrey)
 
+https://github.com/Koryei/CloudDesk/demo.mp4
+
 ---
 
 ## One-Line Install
