@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Shell](https://img.shields.io/badge/shell-bash-lightgrey)
 
-[![Watch the demo video](https://img.youtube.com/vi/da82ZglaZ1U/maxresdefault.jpg)](https://www.youtube.com/watch?v=da82ZglaZ1U)
+[![Watch the demo video](https://jumpshare.com/embed/V3b8vgTpbxzsUQr7NZyy)
 ---
 
 ## One-Line Install
